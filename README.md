@@ -4,6 +4,6 @@ Dataset used in analysis: https://www.kaggle.com/datasets/devansodariya/road-acc
 
 Includes
    * Exploratory data analysis
-   * Geo-spatial analyis
+   * Geo-spatial analysis
    * Time series analysis
    * Hypothesis testing
